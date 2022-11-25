@@ -1,1 +1,2 @@
-FROM      3-openjdk-8
+FROM      maven:3-openjdk-8 
+
