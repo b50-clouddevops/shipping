@@ -2,4 +2,5 @@
 
 env.COMPONENT="shipping"
 env.APPTYPE="maven"
-maven()
+// maven()
+docker-maven()
