@@ -5,6 +5,7 @@ RUN       chwon roboshop /app
 WORKDIR   /app 
 USER      roboshop  
 
-WORKDIR  /home/roboshop 
+ADD       shipping.jar  . 
+
 
 
