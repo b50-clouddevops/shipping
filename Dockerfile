@@ -1,6 +1,6 @@
-FROM      maven:3-openjdk-8 
+FROM      
 RUN       useradd roboshop  
 USER      roboshop  
 WORKDIR  /home/roboshop 
- 
+
 
